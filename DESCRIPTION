@@ -7,8 +7,8 @@ Maintainer: The package maintainer <gio32.premoli@gmail.com>
 Description: This package is using simple functions for a first development example 
 Encoding: UTF-8
 Language: en-GB
-License: GPL(>=2) # general public license, we have to use one higher or equal then the second cause they're not for a commercial use   
-Depends: R 4.4.0
+License: GPL(>=2)   
+Depends: R (>= 4.0.0)
 Imports: devtools
 Suggests: knitr 
 Config/testthat/edition: 3 
