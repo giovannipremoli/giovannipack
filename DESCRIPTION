@@ -1,7 +1,7 @@
 Package: giovannipack
 Type: Package
 Title: How to build a Package  
-Version: 0.1.0 # the last zero is the subversion
+Version: 0.1.0
 Author: Giovanni Premoli
 Maintainer: The package maintainer <gio32.premoli@gmail.com>
 Description: This package is using simple functions for a first development example 
