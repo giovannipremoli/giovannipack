@@ -1,5 +1,5 @@
-function(x,y){
-z=x+y
-return(z)
+simplestuff <- function(x,y){
+ z=x+y
+ return(z)
 }
 
